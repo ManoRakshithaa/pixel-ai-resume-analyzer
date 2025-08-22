@@ -5,7 +5,7 @@ Live Demo 👉 [https://pixel-ai-resume-analyzer.lovable.app/](https://pixel-ai-
 
 ---
 
-## 📖 Overview
+## Overview
 Pixel AI Resume Analyzer is a lightweight web app that helps candidates quickly check their resumes against job descriptions.  
 
 It provides:
@@ -19,20 +19,20 @@ It provides:
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 ![image](https://github.com/user-attachments/assets/f0307353-6ebd-4641-b71e-24fea0dd08bf)
 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Lovable AI** (no-code/low-code app builder)  
 - **React + Tailwind CSS** (auto-generated UI)  
 - **pdfjs-dist** (PDF parsing library, integrated for future improvements)  
 
 ---
 
-## 🚀 Features
+## Features
 - Upload or paste resumes (paste currently works best)  
 - Analyze for **missing keywords**, **formatting issues**, and **strengths**  
 - Match resumes against **job descriptions**  
@@ -40,7 +40,7 @@ It provides:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 - Proper PDF text extraction 
 - AI-based semantic job matching (not just keywords)  
 - Multi-resume batch analysis  
